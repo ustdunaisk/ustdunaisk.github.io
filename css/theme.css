@@ -2273,8 +2273,8 @@ section.section-custom-map-2 section.section {
 
 /* Home Intro */
 .home-intro {
-	background-color: #171717;
-	margin-bottom: 60px;
+	background-color: #none;
+	margin-bottom: 40px;
 	overflow: hidden;
 	padding: 20px 0 10px 0;
 	position: relative;
@@ -2282,7 +2282,6 @@ section.section-custom-map-2 section.section {
 }
 
 .home-intro p {
-	color: #FFF;
 	display: inline-block;
 	font-size: 1.4em;
 	font-weight: 300;
@@ -2291,7 +2290,6 @@ section.section-custom-map-2 section.section {
 }
 
 .home-intro p span {
-	color: #999;
 	display: block;
 	font-size: 0.8em;
 	padding-top: 5px;
